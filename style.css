@@ -20,7 +20,7 @@ html {
 }
 
 body {
-  padding-top: 10rem;
+  padding-top: 2rem;
   text-align: center;
   line-height: 1.6;
   background: var(--clr-main-background);
